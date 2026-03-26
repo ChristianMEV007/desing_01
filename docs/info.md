@@ -10,7 +10,9 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-Make multiple combinations
+Make multiple combinations 
+Use diferents logic gates 
+Only one output
 
 ## How to test
 

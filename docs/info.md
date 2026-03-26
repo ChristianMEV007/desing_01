@@ -10,11 +10,16 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+Make multiple combinations
 
 ## How to test
 
 Explain how to use your project
+Very easy
+not necessary anythings
 
 ## External hardware
+It is ok
+not necesary
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
